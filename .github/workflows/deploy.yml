@@ -19,6 +19,6 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: |
-            cd cmsc388T-web-template
+            cd scduffy.github.io
             git pull
             \cp -f -r ./* ../../pub/
