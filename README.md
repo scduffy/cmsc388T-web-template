@@ -3,3 +3,6 @@
 Website Template for Project 3
 
 Added my personal info and stuff on the HTML code. Also added in a custom profile pic. Edited the colors of the header and footer on the CSS and did some realignment on the footer stuff to try to make it look more centered. 
+
+https://github.com/scduffy/scduffy.github.io
+https://terpconnect.umd.edu/~scduffy/
